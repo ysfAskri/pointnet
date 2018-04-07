@@ -34,6 +34,7 @@ sudo pip install h5py
 
 ### Usage
 Activate the Virtualenv environment by issuing one of the following commands:
+    
     source ~/tensorflow/bin/activate
 
 To train a model to classify point clouds sampled from 3D shapes:
